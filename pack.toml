@@ -1,0 +1,13 @@
+name = "Create DenDan"
+author = "slyw"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7bf7a1012f884775e810f0f8f633f881cb3de9d7a53d62f4eb0712e77b4c3a73"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
