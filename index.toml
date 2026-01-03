@@ -585,6 +585,22 @@ file = "config/sodium-options.json"
 hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 
 [[files]]
+file = "crash-reports/crash-2025-12-28_16.54.48-client.txt"
+hash = "9d3cdd90b2be1a78547aeaa72bea8ca8f0495ab82035fee0d6b45bdfd96d21ae"
+
+[[files]]
+file = "crash-reports/crash-2025-12-28_17.08.32-client.txt"
+hash = "65278ac731976bfc4f1fc2609f7c15f5bda47c52dfb5c33c4b7d77f5c5310e70"
+
+[[files]]
+file = "crash-reports/crash-2025-12-28_17.09.08-client.txt"
+hash = "7068f5296583be97119bf22fd5c4a3d7e99b61200692ef1d13d27812021e6e33"
+
+[[files]]
+file = "crash-reports/crash-2025-12-28_17.12.23-client.txt"
+hash = "2a004238f25971cf2fd72476e62389005f00515a0ad30536a14706db52a29da6"
+
+[[files]]
 file = "data/fabricDefaultResourcePacks.dat"
 hash = "56dcdc36f4d3fe993c688cd6d60c2ef0d83480a63305425e068d171f8fcda7db"
 
@@ -595,6 +611,42 @@ hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 [[files]]
 file = "irisUpdateInfo.json"
 hash = "2ae3d55c9841b7dd3a610bbdfcbba81f40003f6ef942942fbf1aef100fbb73e7"
+
+[[files]]
+file = "logs/2025-12-28-1.log.gz"
+hash = "cc17906f186b82770472793c2ac32426991051aa4b69e45b2fc7edafc1cda6f9"
+
+[[files]]
+file = "logs/2025-12-28-2.log.gz"
+hash = "d09d5ad947c0ed4d06aa1ce2d60966207933d37378bbcbe86077bcc465025e98"
+
+[[files]]
+file = "logs/2025-12-28-3.log.gz"
+hash = "35ec9d06b2aab77f719bb1c1ca5e35208d9900ed8055aa41c5c8b9427eab5cea"
+
+[[files]]
+file = "logs/2025-12-28-4.log.gz"
+hash = "412d11f9c18fc5670c76aadcbd531b495c7ee5b10ec09d5e24d5cfabe5bd827d"
+
+[[files]]
+file = "logs/2025-12-28-5.log.gz"
+hash = "a5d4ae154eb131d9d299d362fa0b25c03e7df0c9d6f5696a928c15a5fb709b7b"
+
+[[files]]
+file = "logs/2025-12-28-6.log.gz"
+hash = "28aea5fd836472b77c7bf5131eaf8ff8bcd3c6718f5976ea487daaa1899e3f22"
+
+[[files]]
+file = "logs/2026-01-02-1.log.gz"
+hash = "d646e837c591b868594bf350c3f57a788476c4f416d6b53832ed331dd7ff52ee"
+
+[[files]]
+file = "logs/latest.log"
+hash = "8ef553ea2f2402bdc9109de0ce18a5266fe5942b6531b36986c783c57b4e9ce0"
+
+[[files]]
+file = "logs/telemetry/20260102-1.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
