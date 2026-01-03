@@ -208,16 +208,6 @@ hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "3968601926c3f69b5605ca7af9c3fcf3fd030f89a7a1d25a9b22fb48b00b6c02"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "8549141793a632e91039e30d45cf665bcac94cacd7b4d591cb5bca75557b73e5"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "6d1c15a4f58affedbb8da26245ec9f3efab83a9c9853fc2dbffb2ec60dbddf46"
 
